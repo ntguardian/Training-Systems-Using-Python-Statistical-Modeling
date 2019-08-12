@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/training-systems-using-python-statistical-modeling">  <img src="https://images-na.ssl-images-amazon.com/images/I/61clrm1Y8KL.jpg" alt="Training Systems Using Python Statistical Modeling" height="256px" align="right"></a>
 
-This is the code repository for [Training Systems Using Python Statistical Modeling](https://www.packtpub.com/big-data-and-business-intelligence/training-systems-using-python-statistical-modeling), published by Packt.
+This is the code repository for [Training Systems Using Python Statistical Modeling](https://www.packtpub.com/big-data-and-business-intelligence/training-systems-using-python-statistical-modeling), published by Packt and written by me, Curtis Miller.
 
 **Explore popular techniques for modeling your data in Python**
 
